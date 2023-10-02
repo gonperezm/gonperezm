@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/iammert/TileProgressView/main/art/animatedart.gif)]()
+[![MasterHead](https://github.com/gonperezm/gonperezm/blob/main/Back.png)]()
 
 <h1 align="center">Hi 👋, I'm Gonzalo Perez Montalvo</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
