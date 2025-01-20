@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gonzaloperezmo3" target="blank"><img src="https://img.shields.io/twitter/follow/gonzaloperezmo3?logo=twitter&style=for-the-badge" alt="gonzaloperezmo3" /></a> </p>
 
-- 🔭 I’m currently working on **java prg**
+- 🔭 I’m currently working As CEO at J enterprise.
 
-- 🌱 I’m currently learning **Spring & Mavin**
+- 🌱 I’m currently learning **PYTHON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
