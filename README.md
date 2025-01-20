@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gonzaloperezmo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gonzaloperezmo3" height="30" width="40" /></a>
-<a href="https:/www.linkedin.com/in/gonzalo-perez-montalvo-351149128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:/www.linkedin.com/in/gonzalo-perez-montalvo-351149128/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gonzalo-perez-montalvo-351149128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-perez-montalvo-351149128/" height="30" width="40" /></a>
 <a href="https://instagram.com/gonzaperezm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gonzaperezm" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/justincarter360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="justincarter360" height="30" width="40" /></a>
 </p>
